@@ -1,7 +1,7 @@
 # Beeceptor Intern Assignment
 
 - Candidate Name: **Akshar Patel**
-- Project: Creation of beeceptor's http callout proxy using playwright automation.
+- Project: Creation of beeceptor's [http callout proxy](https://beeceptor.com/docs/proxy-rule-http-callout/#how-to-configure-a-proxy-rule) using playwright automation.
 
 ## Getting Started
 
